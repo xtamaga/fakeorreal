@@ -9,7 +9,7 @@ This project trains a **LightGBM** model to detect **fake profiles** using Insta
 Install dependencies:
 ```bash
 pip install lightgbm optuna pandas scikit-learn
-
+```
 
 ---
 
